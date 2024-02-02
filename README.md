@@ -14,4 +14,3 @@
         <p>Nah kalo yang ini akun TIK TOK <P>
             <a href="https://www.tiktok.com/@davarabby?_t=8jOEE7v0vSb&_r=1">Sini sini</a>
             
-
