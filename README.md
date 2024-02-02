@@ -6,7 +6,7 @@
                 <meta charset="UTF-8">
         <p>
         <p>NGAPAIN KESINI BJIR</p>
-        <marquee> Hey buf </marquee>
+        <marquee> Halo coy </marquee>
         <p></p>
         <p>Inih IG aku yaa teman teman:3</p>
         <a href="https://www.instagram.com/dava_something_slebew?igsh=bHEzcmM0ODR5dDZj">Klik sini oii</a>
