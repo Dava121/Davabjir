@@ -1,8 +1,8 @@
 
-<index.html>
+<!DOCTYPEhtml>
 <html lang="en">
     <head>
-        <title>Website Dava Gacor</title>
+       <title>dava anjing</title>
     </head>
     <body>
                 <meta charset="UTF-8">
@@ -14,4 +14,5 @@
         <p>Nah kalo yang ini akun TIK TOK <P>
             <a href="https://www.tiktok.com/@davarabby?_t=8jOEE7v0vSb&_r=1">Sini sini</a>
             
+
 </html>
