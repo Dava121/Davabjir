@@ -7,6 +7,7 @@
     <body>
                 <meta charset="UTF-8">
         <p>NGAPAIN KESINI BJIR</p>
+        <marquee>ngentoy</marquee>
         <p></p>
         <p>Inih IG aku yaa teman teman:3</p>
         <a href="https://www.instagram.com/dava_something_slebew?igsh=bHEzcmM0ODR5dDZj">Klik sini oii</a>
