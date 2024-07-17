@@ -1,14 +1,13 @@
 <html lang="en">
     <head>
-        Website Dava gantenk
+        Website Dapa mengerokan
     </head>
     <body>
-<marquee> Spy ware warning!!</marquee>
+<marquee> Yang bikin webnya ganteng jir </marquee>
         <p>
-        <p>NGAPAIN KESINI BJIR</p>
+        <p>Cowo mana yang bisa gini😏 </p>
         <p></p>
-        <p>Inih IG aku yaa teman teman:3</p>
-        <a href="https://www.instagram.com/dava_something_slebew?igsh=bHEzcmM0ODR5dDZj">Klik sini oii</a>
+        <p>𝙰𝙺𝚄𝙽 𝙿𝙴𝙼𝙸𝙻𝙸𝙺 𝚆𝙴𝙱</p>
+        <a href="https://www.instagram.com/dava_something_slebew?igsh=bHEzcmM0ODR5dDZj">IG oii oii </a>
         <p></p>
-        <p>Nah kalo yang ini akun TIK TOK <P>
-            <a href="https://www.tiktok.com/@davarabby?_t=8jOEE7v0vSb&_r=1">Sini sini</a>
+            <a href="https://www.tiktok.com/@davarabby?_t=8jOEE7v0vSb&_r=1">Polow aja lah💕 </a>
